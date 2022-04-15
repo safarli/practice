@@ -1,0 +1,16 @@
+Service:
+  AWS:
+    - Computing:
+        - EC2
+        - Lightsail
+        - Beanstalk
+        - ECS
+    - Databases:
+        - Dynamo
+        - Aurora
+        - RDS
+    - Devops:
+        - Jenkins
+        - CircleCI
+        - Github Actioins
+        - Docker

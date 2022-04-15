@@ -1,0 +1,54 @@
+hello: SALAM
+integer: 25
+float: 25
+hex: 4820
+octal: 23332
+exponent: 1230150
+boolean: Yes
+string: "25"
+infinity: null
+neginf: _.Inf
+not: null
+str: Hello World
+
+foo: null # null
+bar: ~ # also null
+
+data: |
+  These
+  Newlines
+  Are broken up
+info: |
+  This text is wrapped and is a single paragraph
+
+shopping:
+  - milk
+  - eggs
+  - juice
+shoppingFlowStyle:
+  - milk
+  - eggs
+  - juice
+
+Taylor Swift:
+  - Evermore
+  - Folklore
+  - Lover
+The National:
+  - I Am Easy to Find
+  - Sleep Well Beast
+  - Trouble Will Find Me
+
+Assets:
+  - Cars: "Bmw Audi Mercedes"
+  - - RealEstate: 4
+  -
+    - 1
+    - 2
+    - 3
+  -
+  - salam
+
+
+Employees_Flow_Style:
+  ? "[]"

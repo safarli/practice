@@ -1,0 +1,19 @@
+# ROOT STRUCTURE
+
+Inventory:
+  books:
+    philosophy: # PARENT STRUCTURE 
+      - "Epistemology" # CHILD ITEM or CHILD ELEMENT
+      - "Ontology"
+      - "Aesthetics"
+      -
+      - -
+      - - -
+      - salam: 123
+      - "Metaphysics"
+    math:
+      - "Number systems"
+      - "Spaces"
+      - "Structures"
+      - "Changes"
+  papers: 229
