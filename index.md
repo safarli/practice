@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my page!
+
+## You will find different informations related to *configs, yaml, json, scripts, shell scripts, commands* and etc here.
 
 You can use the [editor on GitHub](https://github.com/safarli/practice/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
